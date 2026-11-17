@@ -1,15 +1,23 @@
-# Hello-World
+# Hello, I'm Akshay.
 
 ![Banner](https://github.com/akshaysic/Hello-World/blob/main/Github%20Banner.png)
 
-I'm an ML Student and senior product designer based between Berlin and Stockholm with 9+ years of experience in user-centered design. I focus on accessibility, intuitive UX, and creating meaningful digital experiences. My background spans web, mobile, and IoT design, working with companies like Airalo, IKEA, and Husqvarna.
+I'm a Berlin-based **Senior Product Designer** with 10+ years of experience designing consumer products, complex digital platforms and connected experiences across web, mobile and IoT.
 
-I’m passionate about design that drives impact, blending usability research, information architecture, and interface design to create seamless user experiences. Currently, I’m learning Python and Machine Learning to bridge the gap between design and data-driven decision-making.
+I've worked with teams at **Airalo, frog, IKEA, H&M and Husqvarna**, spanning early-stage product development, research, interaction design, design systems and engineering collaboration.
 
-For my projects, I typically upload to GitHub once I’ve made significant progress, while smaller updates and markdown files get more frequent commits. Feel free to explore my repos and contribute via pull requests!
+Currently, I lead product design at **OHR.FM**, an early-stage music discovery platform connecting DJs, artists and listeners. I am also slowly resuming work on a micro-donation meta charity app called Altrue.
 
-🌱 I’m currently learning Python and ML to integrate data insights into design.
-🔭 I’m working on Altrue, a microdonation platform, and design-driven experiments.
-😀 I like making music, designing interfaces, and exploring generative visuals.
-💬 Ask me about UX, design systems, or synthesizers.
-⚡ Fun fact: My design approach is inspired by music composition—harmony and iteration.
+I'm especially interested in the evolving relationship between **design, code and AI**. I work with Figma, design tokens, Storybook and front-end prototyping, exploring how tools like Cursor, Claude Code, Codex and MCP can bring design and implementation closer together. My background also includes full-stack development training and applied machine learning.
+
+Outside product design, I'm a musician and curator involved in Berlin's experimental electronic music scene.
+
+- **[Dwelling Sessions](https://www.instagram.com/dwelling.sessions/)**: I curate and organise intimate ambient and experimental listening events in Berlin.
+- **[sic](https://soundcloud.com/akshay-gite/sets/ambient-sic-pieces)**: My ambient and electroacoustic music practice, exploring synthesis, field recordings and sound.
+- **[Ambient Narratives](https://thfradio.de/en/shows/ambient-narratives)**: My radio show on THF Radio, exploring ambient, drone and experimental music.
+
+I also enjoy building small experimental projects, exploring generative visuals and finding new ways to connect creative practice with technology.
+
+**Portfolio:** [akshaygite.com](https://akshaygite.com/)
+
+**Interests:** Product design · Design systems · Creative coding · AI-assisted development · Electronic music · Synthesisers
